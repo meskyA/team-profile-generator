@@ -1,4 +1,4 @@
-// link to page creation
+// link to page creation 
 const generateHTML = require('./src/generateHTML');
 
 // team profiles
