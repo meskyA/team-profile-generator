@@ -16,7 +16,7 @@ The GitHub profile opens in a new tab and goes to the actual gitHub page.
 This project was challenging because it did not have starting codes and it involves several steps and folders. 
 With several failed tests and mishaps, much google, and support from AskBCS, I learned that I could apply what I learned so far and was able to generate this app. 
 
-![screen shot](/Assets/Screen-Shot-Team-Profile.png)
+
 [video](https://drive.google.com/file/d/15i5nZ5faj_HfABes3oWH6islap1zNAnC/view)
 [video](https://drive.google.com/file/d/1q1-8DgiKotjyxBREDG7eLIMblVH9SCgg/view)
 
