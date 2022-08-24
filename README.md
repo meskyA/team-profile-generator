@@ -20,6 +20,8 @@ With several failed tests and mishaps, much google, and support from AskBCS, I l
 [video](https://drive.google.com/file/d/15i5nZ5faj_HfABes3oWH6islap1zNAnC/view)
 [video](https://drive.google.com/file/d/1q1-8DgiKotjyxBREDG7eLIMblVH9SCgg/view)
 
+![screen-shot](/Assets/Screen-Shot-Team-Profile.png)
+
 https://github.com/meskyA/team-profile-generator
 
 
